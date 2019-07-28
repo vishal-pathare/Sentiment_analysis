@@ -1,2 +1,2 @@
 # Sentiment_analysis
-My first nlp project involving word embeddings
+List of projects involving sentiment analysis using different methods
